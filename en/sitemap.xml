@@ -24,8 +24,6 @@
                 href="https://liminalmarkets.com/"
                 />
   </url><url>
-    <loc>https://liminalmarkets.com/message_sent/</loc>
-  </url><url>
     <loc>https://liminalmarkets.com/author/</loc>
   </url><url>
     <loc>https://liminalmarkets.com/categories/</loc>
@@ -50,11 +48,13 @@
                 href="https://liminalmarkets.com/categories/"
                 />
   </url><url>
+    <loc>https://liminalmarkets.com/author/stephen-rush/</loc>
+  </url><url>
     <loc>https://liminalmarkets.com/contact/</loc>
   </url><url>
-    <loc>https://liminalmarkets.com/author/john-doe/</loc>
+    <loc>https://liminalmarkets.com/author/ethan-bell/</loc>
   </url><url>
-    <loc>https://liminalmarkets.com/author/mark-dinn/</loc>
+    <loc>https://liminalmarkets.com/about/</loc>
   </url><url>
     <loc>https://liminalmarkets.com/tags/</loc>
     <xhtml:link
